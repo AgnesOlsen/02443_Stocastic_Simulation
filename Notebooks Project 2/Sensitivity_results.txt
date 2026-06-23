@@ -1,0 +1,68 @@
+Results for bed distribution capacity 50 beds  A=22, B=15, C=13
+--------------------------------------------------
+Relocation probabilities:
+  Ward A: 0.6248
+  Ward B: 0.2097
+  Ward C: 0.7605
+
+Average number of relocated patients:
+  Ward A: 1387.54
+  Ward B: 93.52
+  Ward C: 1666.21
+  Total : 3147.26
+
+Average bed occupancy:
+  Ward A: 91.77%
+  Ward B: 74.53%
+  Ward C: 97.56%
+Results for bed distribution capacity 75 beds  A=32, B=10, C=33
+--------------------------------------------------
+Relocation probabilities:
+  Ward A: 0.5137
+  Ward B: 0.4117
+  Ward C: 0.4045
+
+Average number of relocated patients:
+  Ward A: 1139.65
+  Ward B: 183.14
+  Ward C: 885.65
+  Total : 2208.45
+
+Average bed occupancy:
+  Ward A: 88.99%
+  Ward B: 81.68%
+  Ward C: 95.65%
+Results for bed distribution capacity 100 beds  A=41, B=20, C=39
+--------------------------------------------------
+Relocation probabilities:
+  Ward A: 0.2874
+  Ward B: 0.0808
+  Ward C: 0.3053
+
+Average number of relocated patients:
+  Ward A: 638.64
+  Ward B: 36.13
+  Ward C: 668.69
+  Total : 1343.46
+
+Average bed occupancy:
+  Ward A: 84.58%
+  Ward B: 65.94%
+  Ward C: 94.60%
+Results for bed distribution capacity 75 beds exponential  A=32, B=10, C=33
+--------------------------------------------------
+Relocation probabilities:
+  Ward A: 0.5654
+  Ward B: 0.4565
+  Ward C: 0.4574
+
+Average number of relocated patients:
+  Ward A: 1282.00
+  Ward B: 229.00
+  Ward C: 1087.00
+  Total : 2598.00
+
+Average bed occupancy:
+  Ward A: 90.26%
+  Ward B: 83.56%
+  Ward C: 96.31%
